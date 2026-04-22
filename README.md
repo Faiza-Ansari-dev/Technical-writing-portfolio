@@ -2,17 +2,16 @@ Markdown
 
 # 📚 Technical Writing Portfolio
 
-Hi, I am Faiza Ansari, a Computer Science Engineer and Technical Content Writer.
+Hi, I am Faiza Ansari, a Computer Science Engineer and aspiring Technical Content Writer.
 
-I write simple and beginner-friendly technical articles with examples.
-
+I specialize in creating beginner-friendly technical content on web development, Python, and machine learning with clear explanations and practical examples.
 ---
 
 ## 📖 My Articles
 
-- [HTML Introduction](HTML-Introduction.md)
-- [Python Introduction](Python-Introduction.md)
-- [Machine Learning Introduction](Machine-Learning-Introduction.md)
+- [HTML Introduction](HTML-Introduction.md)_ Basics of HTML with structure and examples.
+- [Python Introduction](Python-Introduction.md)_ Beginner guide with syntax and code examples.
+- [Machine Learning Introduction](Machine-Learning-Introduction.md)_ Simple explanation of ML concepts.
 
 ---
 
